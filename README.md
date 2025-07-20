@@ -20,7 +20,7 @@ This project focuses on recognizing human actions in real time using multi-perso
 
 RealTime-Action-Recognition/
 ├── action_model.py # Main Python script
-├── trained_model.pkl # Trained model file (optional)
+├── trained_model.pkl # Trained model file 
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 
