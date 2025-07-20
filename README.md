@@ -28,8 +28,7 @@ This project focuses on recognizing human actions in real time using multi-perso
 RealTime-Action-Recognition/
 │
 ├── action_model.py # Main real-time recognition script
-├── trained_model.pkl # Trained Random Forest model (if small enough)
-├── sample_videos/ # Few test videos (optional)
+├── trained_model.pkl # Trained Random Forest model 
 ├── requirements.txt # Python libraries used
 └── README.md # This file
 
